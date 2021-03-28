@@ -18,7 +18,7 @@ pipeline {
 
       steps {
 
-        git 'git@github.com:dasharathsaibane/Docker-Jenkins-Demo.git'
+        git 'https://github.com/dasharathsaibane/Docker-Jenkins-Demo'
 
       }
 
